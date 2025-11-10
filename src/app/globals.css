@@ -6,9 +6,8 @@
 }
 
 @theme{
-  --font-ral: "Raleway", sans-serif;
-  --font-mont: "Montserrat", sans-serif;
-  --font-sans: "Open Sans", sans-serif;
+  --font-inter: "Inter", sans-serif;
+  --color-gray: #909090;
   
 }
 
